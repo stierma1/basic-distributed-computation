@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stierma1/basic-distributed-computation/issues"
   },
-  "homepage": "https://github.com/stierma1/basic-distributed-computation#readme"
+  "homepage": "https://github.com/stierma1/basic-distributed-computation#readme",
+  "dependencies": {
+    "uuid": "^2.0.1"
+  }
 }
